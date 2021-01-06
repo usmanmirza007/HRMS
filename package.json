@@ -11,7 +11,7 @@
     "@react-native-community/masked-view": "^0.1.5",
     "@twotalltotems/react-native-otp-input": "^1.2.1",
     "accordion-collapse-react-native": "^0.2.10",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cli": "^1.0.1",
     "expo": "^36.0.2",
     "moment": "^2.24.0",
